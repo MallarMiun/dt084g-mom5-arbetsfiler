@@ -1,4 +1,4 @@
-// Denna fil ska innehålla din lösning till uppgiften (moment 6).
+// Denna fil ska innehålla din lösning till uppgiften (moment 5).
 
 "use strict";
 
